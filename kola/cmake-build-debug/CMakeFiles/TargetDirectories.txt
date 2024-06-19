@@ -1,0 +1,3 @@
+C:/Users/kirki/CLionProjects/figury/cmake-build-debug/CMakeFiles/figury1.dir
+C:/Users/kirki/CLionProjects/figury/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kirki/CLionProjects/figury/cmake-build-debug/CMakeFiles/rebuild_cache.dir
