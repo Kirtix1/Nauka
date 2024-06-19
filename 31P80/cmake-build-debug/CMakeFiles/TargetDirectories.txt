@@ -1,0 +1,3 @@
+C:/Users/kirki/CLionProjects/31P80/cmake-build-debug/CMakeFiles/31P80.dir
+C:/Users/kirki/CLionProjects/31P80/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kirki/CLionProjects/31P80/cmake-build-debug/CMakeFiles/rebuild_cache.dir
