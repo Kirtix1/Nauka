@@ -1,0 +1,3 @@
+C:/Users/kirki/CLionProjects/34P95/cmake-build-debug/CMakeFiles/34P95.dir
+C:/Users/kirki/CLionProjects/34P95/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kirki/CLionProjects/34P95/cmake-build-debug/CMakeFiles/rebuild_cache.dir
