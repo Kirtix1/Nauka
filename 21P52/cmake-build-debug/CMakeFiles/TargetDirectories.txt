@@ -1,0 +1,3 @@
+C:/Users/kirki/CLionProjects/21P52/cmake-build-debug/CMakeFiles/21P52.dir
+C:/Users/kirki/CLionProjects/21P52/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kirki/CLionProjects/21P52/cmake-build-debug/CMakeFiles/rebuild_cache.dir
