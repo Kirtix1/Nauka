@@ -1,0 +1,3 @@
+C:/Users/kirki/CLionProjects/Projekt_POPRAWIONY/cmake-build-debug/CMakeFiles/Projekt_POPRAWIONY.dir
+C:/Users/kirki/CLionProjects/Projekt_POPRAWIONY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kirki/CLionProjects/Projekt_POPRAWIONY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
